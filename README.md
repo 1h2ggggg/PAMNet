@@ -1,5 +1,5 @@
 # PAM-Net
-# The overall of strucure PAM-Net
+# The overall strucure of PAM-Net
  ![overall structure](./pic/PAMNet.png)
 # Getting started
 1. Install requirements. pip install -r requirements.txt.
